@@ -12,6 +12,10 @@ figcaption {
   text-align: center;
 }
 
+#links h3 {
+  color:red;
+}
+
 body {
   width: 100%;
   height: 100%;
