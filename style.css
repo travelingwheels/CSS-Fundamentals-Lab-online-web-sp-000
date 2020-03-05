@@ -9,7 +9,9 @@ figure img {
 }
 
 figcaption {
-  
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 
 body {
