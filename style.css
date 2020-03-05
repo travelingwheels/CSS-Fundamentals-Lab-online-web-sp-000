@@ -32,3 +32,8 @@ figcaption {
   width: 800px;
 }
 
+#details div {
+  display: block;
+  
+}
+
