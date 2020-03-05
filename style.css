@@ -2,7 +2,7 @@ header {
   text-align: center;
 }
 
-#featuredproperty {
+figure {
   margin: auto;
   display: flex;
   align-items: center;
