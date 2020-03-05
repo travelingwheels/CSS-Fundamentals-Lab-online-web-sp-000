@@ -2,11 +2,7 @@ header {
   text-align: center;
 }
 
-nav {
-  margin: auto;
-  display: flex;
-  align-items: center;
-}
+
 
 body {
   width: 100%;
