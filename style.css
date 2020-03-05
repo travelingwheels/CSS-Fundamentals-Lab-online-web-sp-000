@@ -35,5 +35,7 @@ figcaption {
 #details div {
   display: block;
   float: left;
+  background-color: purple;
+  width: 25%;
   }
 
