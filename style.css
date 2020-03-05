@@ -2,7 +2,11 @@ header {
   text-align: center;
 }
 
-section#featuredproperty {
+#featuredproperty {
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
 
 body {
   width: 100%;
