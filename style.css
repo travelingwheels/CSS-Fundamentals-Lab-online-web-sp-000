@@ -1,4 +1,6 @@
-header {text: center
+header {
+  text-align: center;
+}
 
 body {
   width: 100%;
